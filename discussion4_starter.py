@@ -49,7 +49,7 @@ class Rectangle():
 
 
     # Create the "perimeter" method
-    #
+    # #
     # It first verifies inputs and return "Invalid input" if they are invalid.
     # Otherwise, it returns the perimeter of the rectangle.
 
